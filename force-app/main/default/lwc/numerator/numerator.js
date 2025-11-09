@@ -16,7 +16,7 @@ export default class Numerator extends LightningElement {
   @api
   maximizeCounter() {
     this.counter += 1000000;
-  }
+  } 
 
   _currentCount = 0;
   priorCount = 0;
