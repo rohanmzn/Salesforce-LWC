@@ -57,5 +57,5 @@ Step	Action	                    Publisher (remoteControl)	                Messag
 3	    Counts component updates UI	—	                                        —	                    Updates counter and re-renders
 
 All this happens instantly — no parent-child relationship required.
-They can even be in different Lightning pages (like Record Pages, App Pages, or even Utility Bars). 
+They can even be in different Lightning pages (like Record Pages, App Pages, or even Utility Bars).  
 */
